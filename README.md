@@ -11,5 +11,9 @@ I used Trackbars to manipulate the values for red  range, the following results 
 ```bash
 pip install numpy
 pip install opencv-python
-![Output Image](output.png)
+
+
+## Output explanation
+I have tried to detect red colour in this code.My red bottle is detected.you can change the colour by adjusting the trackbar HSV (colours)values.I also added a beep sound if that particular colour is detected.
+
 
