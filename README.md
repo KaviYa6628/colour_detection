@@ -11,4 +11,4 @@ I used Trackbars to manipulate the values for red  range, the following results 
 ```bash
 pip install numpy
 pip install opencv-python
-![Alt Text]("C:\Users\kaviy\OneDrive\Pictures\output.png")
+![Alt Text](output.png)
